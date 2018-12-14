@@ -11,4 +11,5 @@ As you can see there's been no activity on this for a while; we never got past t
 To get started with this project, you need to have a development environment setup for flutter:
 https://flutter.io/docs/get-started/install
 
-For help getting started with Flutter, view their online documentation.
+For help getting started with Flutter, view their online documentation:
+https://flutter.io/
